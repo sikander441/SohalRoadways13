@@ -1,0 +1,1 @@
+web: gunicorn SohalRoadways.wsgi --log-file -
